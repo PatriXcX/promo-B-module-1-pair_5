@@ -60,3 +60,6 @@ li {
 footer{
     margin-top: 5%;
 }
+.izquierda {
+    float: left;
+}
