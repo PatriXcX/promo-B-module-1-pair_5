@@ -1,0 +1,14 @@
+body{
+    background-color: papayawhip;
+    margin: 50px;
+    text-align: justify;
+    font-size: 18px;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: tomato;
+    font-size: 25px;
+}
+section {
+    background-color: peachpuff;
+}
